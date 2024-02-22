@@ -1,4 +1,4 @@
-import { createPlayer, createGame, playRound, getWinner, getGameWinner, playGame } from './shifoumi.js';
+import { createPlayer, createGame, playRound, getWinner, getGameWinner, playGame } from '../domain/shifoumi.js';
 
 const players = [];
 
